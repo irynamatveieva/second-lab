@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu for the day</string>
+    <string name="lasagna">https://www.allrecipes.com/thmb/bhh-UuQOUCuyVJ-9PodUPWSbnBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23600-worlds-best-lasagna-armag-1x1-1-339b21b9f88b48c9943def663f43889c.jpg</string>
+    <string name="omelette">https://images.immediate.co.uk/production/volatile/sites/30/2020/08/omelette-3cba9f8.jpg</string>
+    <string name="soup">https://www.recipetineats.com/wp-content/uploads/2021/04/Mushroom-Soup-in-bowl-SQ.jpg</string>
+
+    <string name="OmeletteRecipe">Ingredients\n3 eggs\nbeaten\n1 tsp sunflower oil\n1 tsp butter</string>
+    <string name="SoupRecipe">Ingredients\nbutter, onions, roughly chopped, garlic clove, crushed, mushrooms, flour, hot chicken stock,bay leaf,cream</string>
+    <string name="LasagnaRecipe">Ingredients\nmeat\nonion and garlic\ntomato products\nsugar\nspices and seasonings\nlasagna noodles\ncheeses</string>
+</resources>
